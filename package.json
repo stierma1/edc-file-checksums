@@ -1,0 +1,23 @@
+{
+  "name": "edc-file-checksums",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/edc-file-checksums.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/edc-file-checksums/issues"
+  },
+  "homepage": "https://github.com/stierma1/edc-file-checksums#readme",
+  "dependencies": {
+    "basic-distributed-computation": "^1.0.0",
+    "edc-start-file-checksum": "^1.0.0"
+  }
+}
